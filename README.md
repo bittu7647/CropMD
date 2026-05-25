@@ -50,13 +50,4 @@ CropMD is an advanced, AI-powered mobile application designed to empower farmers
    flutter run
    ```
 
-*(Note: Ensure your Firebase configuration files (`google-services.json` / `GoogleService-Info.plist`) are placed in their respective directories before building.)*
-
----
-
-## 📱 Screenshots & Demo
-*(Judges: Please view the live application demonstration on the provided device or emulator to experience the fluid animations, local inference speeds, and premium UI design.)*
-
----
-
 **Developed with ❤️ for the future of agriculture.**
